@@ -48,7 +48,7 @@ Python (Pandas library) was utilized to aggregate, clean, and transform the 12 i
 ## 4. Analyze Phase
 
 ### Methodology
-With the cleaned data, descriptive analysis was conducted to uncover the distinct behavioral patterns between casual riders and annual members[cite: 1]. The analysis focused on two primary metrics: total ride volume (to gauge demand) and average ride duration (to gauge engagement).
+With the cleaned data, descriptive analysis was conducted to uncover the distinct behavioral patterns between casual riders and annual members. The analysis focused on two primary metrics: total ride volume (to gauge demand) and average ride duration (to gauge engagement).
 
 ### Key Aggregations
 Data was grouped and aggregated across three dimensions:
