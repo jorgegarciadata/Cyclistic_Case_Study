@@ -1,0 +1,6 @@
+# Ignorar los archivos CSV pesados de datos crudos
+Data/raw_data/*.csv
+
+# (Opcional) Ignorar archivos temporales de sistema
+.DS_Store
+__pycache__/
